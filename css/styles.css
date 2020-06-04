@@ -93,25 +93,25 @@ hr {
 }
 
 .data_science {
-  width: 33%;
+  width: 42%;
   float: left;
   margin-right: 30px;
 }
 
 .machine_learning {
-  width: 33%;
+  width: 42%;
   float: right;
   margin-left: 30px;
 }
 
 .deep_learning {
-  width: 33%;
+  width: 42%;
   float: left;
   margin-right: 30px;
 }
 
 .web_d {
-  width: 33%;
+  width: 42%;
   float: right;
   margin-left: 30px;
 }
